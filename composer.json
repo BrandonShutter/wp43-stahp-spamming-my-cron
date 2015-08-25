@@ -1,0 +1,8 @@
+{
+    "name": "shutter/cron43fix",
+    "description": "Fixes 4.3 bug cron bug",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0.12"
+    }
+}
